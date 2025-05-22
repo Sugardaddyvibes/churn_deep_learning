@@ -113,8 +113,6 @@ dmypy.json
 .idea/
 
 # Model checkpoints / temporary model files
-*.h5
-*.pkl
 *.joblib
 *.ckpt
 
